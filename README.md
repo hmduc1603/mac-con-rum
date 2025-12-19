@@ -8,6 +8,8 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](https://github.com/yourusername/mac-con-rum/releases)
 
+<a href="https://buymeacoffee.com/macconrum"><img src="images/bmc-button.png" alt="Buy Me a Coffee" width="60%"/></a>
+
 </div>
 
 ---
